@@ -1,0 +1,6 @@
+{
+  "appId": "com.wesgym.personal",
+  "appName": "We's Gym",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
